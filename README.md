@@ -1,1 +1,2 @@
 # ChatGptChatTrial
+Ive used https://github.com/srcnalt/OpenAI-Unity to understand how to work with its Api and developed a small chatbox game, Hope you all get some use on it, since GPt API are now fully paid i couldnt totally try it, but since it claims t update my payment method y believe it workds, since the repository of https://github.com/srcnalt/OpenAI-Unity its awesome i suggest you to work with it and to use this one as a reference if you want to work with it
